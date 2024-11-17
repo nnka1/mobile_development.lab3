@@ -10,6 +10,8 @@
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/cS2wVLdthNc/hqdefault.jpg)](https://www.youtube.com/shorts/cS2wVLdthNc?feature=share)
 
+### 1. MainActivity1
+
 * Кнопка 1 ("Показать данные"): Запускает второе активити (MainActivity2), которое отображает все записи из таблицы "Одногруппники" в формате списка, включая ФИО и время добавления каждой записи. Используется Intent для перехода между активити.
 
 * Кнопка 2 ("Добавить запись"): Добавляет новую запись в таблицу "Одногруппники". Временная метка устанавливается автоматически. После добавления, пользователь получает краткое уведомление.
@@ -20,7 +22,7 @@
 ![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37.jpg)
 
 
-### 2. MainActivity2 (Второе активити)
+### 2. MainActivity2
 
 * Отображает содержимое таблицы "Одногруппники" в TextView (activity_main2.xml).
   
