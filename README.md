@@ -19,7 +19,7 @@
 * Кнопка 3 ("Обновить последнюю запись"): Изменяет ФИО в последней добавленной записи на "Иванов Иван Иванович". Пользователь получает уведомление об успешном или неудачном обновлении.
 
 * Все три кнопки взаимодействуют с классом DatabaseHelper для выполнения операций с базой данных.
-![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37.jpg)
+![alt text](https://github.com/nnka1/mobile_development.lab3/blob/main/photo_5_2024-11-18_00-44-09.jpg)
 
 
 ### 2. MainActivity2
