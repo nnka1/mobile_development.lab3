@@ -8,7 +8,7 @@
 
 (кликабельно)
 
-[![Everything Is AWESOME]((https://img.youtube.com/vi/<OIV_9opfMTw>/default.jpg))](https://www.youtube.com/shorts/OIV_9opfMTw)
+[[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)](https://www.youtube.com/shorts/OIV_9opfMTw)
 
 ### 1. MainActivity1
 
