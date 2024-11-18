@@ -25,6 +25,8 @@
 ### 2. MainActivity2
 
 * Отображает содержимое таблицы "Одногруппники" в TextView (activity_main2.xml).
+
+![alt text](https://github.com/nnka1/mobile_development.lab3/blob/main/photo_7_2024-11-18_00-44-09.jpg)
   
 * Получает данные из базы данных через DatabaseHelper.getAllData().
   
